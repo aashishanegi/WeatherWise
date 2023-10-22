@@ -44,8 +44,9 @@ check.addEventListener("click", () => {
         feelsLike.innerText = `Feels Like ${data.main.feels_like}°C`;
         
         humidity.innerText = `Humidity ${data.main.humidity}`;
+        longitude.innerText = `Longitude ${data.coord.lon}`;
         latitude.innerText = `Latitude ${data.coord.lat}`;
-        longitude.innerText = `Latitude ${data.coord.lon}`;
+        
         
     })
     country.value = "";
