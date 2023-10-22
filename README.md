@@ -5,7 +5,7 @@ WeatherWise is your go-to destination for accurate and up-to-date weather foreca
 
 ## Aim:
 * Provide reliable, accessible, and user-friendly weather forecasts.
-* Empower individuals to make informed decisions based on weather conditions.
+* Empower individuals to make informed decisions based on the weather conditions.
 * Simplify the way people interact with weather information.
 * Make weather forecasts an essential part of users' daily lives.
 * Enable users to plan their activities with confidence, regardless of the weather.
